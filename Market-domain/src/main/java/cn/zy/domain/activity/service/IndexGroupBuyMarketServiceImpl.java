@@ -10,7 +10,7 @@ import javax.annotation.Resource;
 
 
 /**
- * @author Huli
+ * @author zy
  */
 @Service
 public class IndexGroupBuyMarketServiceImpl implements IIndexGroupBuyMarketService {

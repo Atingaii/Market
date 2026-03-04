@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 
 
 /**
- * @author Huli
+ * @author zy
  * 加一下营销商品的信息
  */
 @Data

@@ -4,7 +4,7 @@ import cn.zy.domain.activity.model.entity.MarketProductEntity;
 import cn.zy.domain.activity.model.entity.TrialBalanceEntity;
 
 /**
- * @author Huli
+ * @author zy
  */
 public interface IIndexGroupBuyMarketService {
 

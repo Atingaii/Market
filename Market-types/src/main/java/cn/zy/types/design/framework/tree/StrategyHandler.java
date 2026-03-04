@@ -1,7 +1,7 @@
 package cn.zy.types.design.framework.tree;
 
 /**
- * @author Huli
+ * @author zy
  */
 public interface StrategyHandler<T, D, R> {
 
