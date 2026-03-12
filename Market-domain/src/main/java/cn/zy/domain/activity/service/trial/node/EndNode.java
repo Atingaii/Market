@@ -31,6 +31,7 @@ public class EndNode extends AbstractGroupBuyMarketSupport<MarketProductEntity, 
 
         // 折扣价格
         BigDecimal deductionPrice = dynamicContext.getDeductionPrice();
+        log.info("折扣价格为{}",deductionPrice);
 
 
         // 返回空结果
@@ -38,7 +39,7 @@ public class EndNode extends AbstractGroupBuyMarketSupport<MarketProductEntity, 
                   .goodsId(skuVO.getGoodsId())
                   .goodsName(skuVO.getGoodsName())
                   .originalPrice(skuVO.getOriginalPrice())
-                  .deductionPrice(new BigDecimal("0.00"))
+                  .deductionPrice(deductionPrice)
                   .targetCount(groupBuyActivityDiscountVO.getTarget())
                   .startTime(groupBuyActivityDiscountVO.getStartTime())
                   .endTime(groupBuyActivityDiscountVO.getEndTime())
