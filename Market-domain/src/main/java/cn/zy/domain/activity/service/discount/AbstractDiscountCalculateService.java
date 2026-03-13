@@ -6,7 +6,7 @@ import cn.zy.domain.activity.model.valobj.GroupBuyActivityDiscountVO;
 import java.math.BigDecimal;
 
 /**
- * @author Fuzhengwei zycn @小傅哥
+ * @author zy
  * @description 折扣计算服务抽象类
  * @create 2024-12-22 12:32
  */

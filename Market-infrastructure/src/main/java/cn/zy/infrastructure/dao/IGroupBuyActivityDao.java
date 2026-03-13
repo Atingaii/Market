@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @author zy
- * @description 拼团活动Dao
+ * @description 拼团活动 DAO
  * @create 2024-12-07 10:10
  */
 @Mapper

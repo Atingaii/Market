@@ -5,7 +5,7 @@ import cn.zy.domain.activity.model.valobj.SkuVO;
 
 /**
  * @author zy
- * @description 活动仓储
+ * @description 活动仓储接口
  * @create 2024-12-21 10:06
  */
 public interface IActivityRepository {

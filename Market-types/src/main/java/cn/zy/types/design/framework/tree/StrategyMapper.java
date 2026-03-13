@@ -2,6 +2,7 @@ package cn.zy.types.design.framework.tree;
 
 /**
  * @author zy
+ * @description 策略映射器
  */
 public interface StrategyMapper<T, D, R> {
 

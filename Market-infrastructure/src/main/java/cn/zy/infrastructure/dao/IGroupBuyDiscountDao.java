@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @author zy
- * @description 折扣配置Dao
+ * @description 拼团折扣配置 DAO
  * @create 2024-12-07 10:10
  */
 @Mapper

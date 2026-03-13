@@ -16,7 +16,7 @@ import javax.annotation.Resource;
 
 /**
  * @author zy
- * @description 活动仓储
+ * @description 活动仓储实现
  * @create 2024-12-21 10:10
  */
 @Repository

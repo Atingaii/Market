@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import java.math.BigDecimal;
 
 /**
- * @author Fuzhengwei zycn @小傅哥
+ * @author zy
  * @description 直减
  * @create 2024-12-22 09:24
  */

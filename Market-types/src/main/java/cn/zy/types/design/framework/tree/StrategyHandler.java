@@ -2,6 +2,7 @@ package cn.zy.types.design.framework.tree;
 
 /**
  * @author zy
+ * @description 策略处理器
  */
 public interface StrategyHandler<T, D, R> {
 

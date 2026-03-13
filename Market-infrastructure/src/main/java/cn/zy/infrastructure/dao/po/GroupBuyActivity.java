@@ -10,6 +10,7 @@ import java.util.Date;
 
 /**
  * @author zy
+ * @description 拼团活动持久化对象
  */
 @Data
 @Builder

@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * @author zy
- * 加一下营销商品的信息
+ * @description 营销商品实体
  */
 @Data
 @Builder

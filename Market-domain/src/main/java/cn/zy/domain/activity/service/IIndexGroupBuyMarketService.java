@@ -5,6 +5,7 @@ import cn.zy.domain.activity.model.entity.TrialBalanceEntity;
 
 /**
  * @author zy
+ * @description 首页拼团营销服务接口
  */
 public interface IIndexGroupBuyMarketService {
 

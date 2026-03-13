@@ -11,6 +11,7 @@ import java.util.Date;
 
 /**
  * @author zy
+ * @description 拼团营销试算实体
  */
 @Data
 @Builder

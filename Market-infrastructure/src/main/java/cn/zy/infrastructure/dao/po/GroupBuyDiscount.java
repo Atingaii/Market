@@ -10,6 +10,7 @@ import java.util.Date;
 
 /**
  * @author zy
+ * @description 拼团折扣配置持久化对象
  */
 @Data
 @Builder

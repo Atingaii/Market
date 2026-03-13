@@ -5,6 +5,7 @@ import lombok.Setter;
 
 /**
  * @author zy
+ * @description 策略路由抽象类
  */
 public abstract class AbstractStrategyRouter<T, D, R> implements StrategyMapper<T, D, R>, StrategyHandler<T, D, R> {
 

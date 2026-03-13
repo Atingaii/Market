@@ -8,8 +8,8 @@ import org.springframework.stereotype.Service;
 import java.math.BigDecimal;
 
 /**
- * @author Fuzhengwei zycn @小傅哥
- * @description 满减优惠计算
+ * @author zy
+ * @description N元购优惠计算
  * @create 2024-12-22 12:12
  */
 @Slf4j

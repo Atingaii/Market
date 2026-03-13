@@ -11,6 +11,7 @@ import javax.annotation.Resource;
 
 /**
  * @author zy
+ * @description 首页拼团营销服务实现
  */
 @Service
 public class IndexGroupBuyMarketServiceImpl implements IIndexGroupBuyMarketService {
